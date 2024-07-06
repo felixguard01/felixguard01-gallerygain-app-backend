@@ -1,0 +1,11 @@
+{
+  "name": "gallerygain-app-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/felixguard01/gallerygain-app-backend.git",
+  "author": "Fe <96889381+felixguard01@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
